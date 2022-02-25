@@ -90,7 +90,7 @@ Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, pr
 
 ## Data de entrega
 
-* Projeto em dupla.
+* Projeto em equipe.
 * Serão `1` dias de projeto.
 * Data de entrega para avaliação final do projeto: `04/03/2022 14:00`.
 
@@ -98,7 +98,7 @@ Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, pr
 
 ### Antes de começar a desenvolver:
 
-⚠️ **Esse projeto tem um fluxo um pouco diferente dos outros. Os passos 1 a 6 devem ser feitos por uma pessoa da dupla (a que vai criar a branch de trabalho). A outra pessoa deve fazer apenas o passo 1 e depois mudar para a branch criada pela primeira pessoa. Exemplo:**
+⚠️ **Esse projeto tem um fluxo um pouco diferente dos outros. Os passos 1 a 6 devem ser feitos por uma pessoa da equipe (a que vai criar a branch de trabalho). A outra pessoa deve fazer apenas o passo 1 e depois mudar para a branch criada pela primeira pessoa. Exemplo:**
 
 ```bash
 git checkout joao-silva-trybewarts
@@ -179,7 +179,7 @@ git checkout joao-silva-trybewarts
 
 # Como desenvolver
 
-Você irá desenvolver este projeto em **dupla** e é fundamental que siga as instruções do repositório.
+Você irá desenvolver este projeto em **equipe** e é fundamental que siga as instruções do repositório.
 
 Todos os requisitos tem como base a página a seguir, que representa um formulário de avaliação da **Escola de Magia de Trybewarts**. Use a imagem do site como base e respeite o posicionamento dos elementos, mas quanto às cores e elementos de design que não interfiram nesses aspectos sinta-se livre para deixar a sua criatividade fluir!
 
@@ -623,7 +623,7 @@ Esses requisitos **não** são verificáveis pelo avaliador automático.
 
 #### A pessoa dona da branch deve garantir que o último commit nessa branch é seu. Pode ser feita alguma alteração que não afete o cumprimento dos requisitos para realizar o commit.
 
-A outra pessoa integrante da dupla deve criar uma nova `branch` a partir da `branch` de trabalho _(a primeira branch criada pela equipe)_.
+A(s) outra(s) pessoa(s) integrante(s) da equipe deve(m) criar uma nova `branch` a partir da `branch` de trabalho _(a primeira branch criada pela equipe)_.
 
 Exemplo: 
 
