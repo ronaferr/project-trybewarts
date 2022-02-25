@@ -44,3 +44,11 @@
   height: 500px;
 }
 
+footer{
+  background-color: gray;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
