@@ -44,7 +44,7 @@
   height: 500px;
 }
 
-footer{
+footer {
   background-color: gray;
   padding: 10px;
   color: white;
@@ -52,3 +52,7 @@ footer{
   justify-content: center;
 }
 
+.seleçaoCasa {
+  display: flex;
+  flex-direction: column;
+}
