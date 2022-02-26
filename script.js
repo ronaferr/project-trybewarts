@@ -4,7 +4,6 @@ const btnLogin = document.querySelector('#btn-login');
 const btnSend = document.querySelector('#submit-btn');
 const agreement = document.querySelector('#agreement');
 
-
 btnLogin.addEventListener('click', () => {
   const senhaConvert = senha.value;
   if (email.value === 'tryber@teste.com' && senhaConvert === '123456') {
@@ -21,6 +20,5 @@ agreement.addEventListener('click', () => {
     btnSend.disabled = false;
   } else {
     btnSend.disabled = true;
-  }
-  
-})
+  }  
+});
