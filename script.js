@@ -20,5 +20,5 @@ agreement.addEventListener('click', () => {
     btnSend.disabled = false;
   } else {
     btnSend.disabled = true;
-  }  
+  }
 });
